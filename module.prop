@@ -1,0 +1,7 @@
+id=fix-model-info-a03nnxx
+name=Fix Model Info for SM-A035F
+version=v1
+versionCode=1
+author=IverCoder
+description=Fix model information for GSIs that overwrite system values that usually should not be overwritten.
+updateJson=https://raw.githubusercontent.com/IverCoder/Fix-ModelInfo-a03nnxx/main/update.json
